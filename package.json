@@ -1,0 +1,13 @@
+{
+  "name": "bam",
+  "description": "nack-based multi-rack app server, like a mini pow",
+  "author": "Chris Scharf <scharfie@gmail.com>",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "connect": ">= 2.7.2",
+    "glob": ">= 3.1.20",
+    "nack": ">= 0.14.0"
+  },
+  "engine": "node 0.4.1"
+}
